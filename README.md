@@ -39,7 +39,7 @@ We want the rendered content to look like this
 </head>
 <body>
 Base template
-<!-- template name: base.html -->
+<!-- template name: nested.html -->
 Nested template
 </body>
 </html>
